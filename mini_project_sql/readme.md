@@ -1,6 +1,6 @@
 # Анализ рынка инвестиций #
 
-[sql]([http://example.com/link](https://github.com/rakiton94/Practicum/blob/main/mini_project_sql/investments_in_startups.sql) "sql")
+[sql](https://github.com/rakiton94/Practicum/blob/main/mini_project_sql/investments_in_startups.sql "sql")
 ## Описание проекта
 
 Требуется проанализировать данные о венчурных фондах и инвестициях в компании-стартапы и написать запросы к базе. Эта база данных основана на датасете Startup Investments, опубликованном на популярной платформе для соревнований по исследованию данных Kaggle.
