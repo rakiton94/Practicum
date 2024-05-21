@@ -3,7 +3,7 @@
 ## Описание проекта
 Требуется исследовать предоставленные данные, сформировать требуемые выгрузки данных с помощью SQL, посчитать различные продуктовые метрики и визуализировать их.
 ## ER-диаграмма
-![]([https://pictures.s3.yandex.net/resources/1.2_2880px_1647358581.png](https://pictures.s3.yandex.net/resources/Frame_353_1_1664969703.png))
+![](https://pictures.s3.yandex.net/resources/1.2_2880px_1647358581.png](https://pictures.s3.yandex.net/resources/Frame_353_1_1664969703.png)
 * stackoverflow.badges - хранит информацию о значках, которые присуждаются за разные достижения,
 * stackoverflow.post_types - содержит информацию о типе постов,
 * stackoverflow.posts - содержит информацию о постах,
