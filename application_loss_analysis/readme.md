@@ -1,5 +1,5 @@
 # Анализ убытков приложения ProcrastinatePRO+ #
-[ipynb]( "ipynb")
+[ipynb](https://github.com/rakiton94/Practicum/blob/main/application_loss_analysis/application_loss_analysis.ipynb "ipynb")
 ## Описание проекта
 Требуется провести анализ данных от ProcrastinatePRO+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Наша задача — разобраться в причинах и помочь компании выйти в плюс.
 ## Навыки и инструменты
