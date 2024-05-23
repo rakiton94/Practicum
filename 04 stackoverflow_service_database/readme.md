@@ -1,5 +1,5 @@
 # Исследование базы данных сервиса Stackoverflow #
-[sql](https://github.com/rakiton94/Practicum/blob/main/stackoverflow_service_database/stackoverflow_service_database.sql "sql")
+[sql](https://github.com/rakiton94/Practicum/blob/main/04%20stackoverflow_service_database/stackoverflow_service_database.sql "sql")
 ## Описание проекта
 Требуется исследовать предоставленные данные, сформировать требуемые выгрузки данных с помощью SQL, посчитать различные продуктовые метрики и визуализировать их.
 ## ER-диаграмма
