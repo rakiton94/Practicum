@@ -1,6 +1,6 @@
 # Исследование рынка компьютерных игр #
 
-[ipynb](https://github.com/rakiton94/Practicum/blob/main/game_market_research/computer_games_market_research.ipynb "ipynb")
+[ipynb](https://github.com/rakiton94/Practicum/blob/main/03%20game_market_research/computer_games_market_research.ipynb "ipynb")
 ## Описание проекта
 Требуется выявить закономерности, определяющие успешность игры, что позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании в 2017 году.
 
